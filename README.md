@@ -33,23 +33,6 @@ Just **copy–paste** this into your `README.md` on GitHub.
 This project is a complete **end-to-end automated solution** for processing daily USA financial survey data and generating a professional Power BI dashboard.
 It replaces a highly manual, error-prone workflow and saves **time, cost, and resources** while improving data reliability.
 
----
-
-# 🌟 **Dashboard Preview**
-
-<div align="center">
-
-### 📸 **USA Financial Dashboard**
-
-Upload `dashboard.png` in your repo and this preview will appear:
-
-```md
-![USA Financial Dashboard](./"C:\Users\hp\OneDrive\Pictures\Screenshots\Screenshot 2025-11-06 150243.png")
-```
-
-</div>
-
----
 
 # 🚀 **Why This Project? — The Problem**
 
