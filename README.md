@@ -188,8 +188,8 @@ A bar chart reveals which loans customers prefer.
 # 🧑‍💻 **How to Use This Project**
 
 ✅ Step 1 — Clone the Repository
-git clone [https://github.com//USA_FINANCIAL_DASHBOARD.git
-cd USA_FINANCIAL_DASHBOARD](https://github.com/Hacksbos/USA_FINANCIAL_DASHBOARD/edit/main/README.md)
+git clone https://github.com/Hacksbos/USA_FINANCIAL_DASHBOARD.git
+cd USA_FINANCIAL_DASHBOARD
 
 
 ✅ Step 2 — Install Python Packages
