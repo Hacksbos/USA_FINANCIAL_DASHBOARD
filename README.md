@@ -187,27 +187,20 @@ A bar chart reveals which loans customers prefer.
 
 # 🧑‍💻 **How to Use This Project**
 
-### ✅ Step 1 — Clone the Repository
+✅ Step 1 — Clone the Repository
+git clone [https://github.com//USA_FINANCIAL_DASHBOARD.git
+cd USA_FINANCIAL_DASHBOARD](https://github.com/Hacksbos/USA_FINANCIAL_DASHBOARD/edit/main/README.md)
 
-```sh
-git clone https://github.com/yourusername/USA-Financial-Dashboard.git
-```
 
-### ✅ Step 2 — Install Python Packages
-
-```sh
+✅ Step 2 — Install Python Packages
 pip install google-auth google-api-python-client pandas openpyxl
-```
 
-### ✅ Step 3 — Add Your Service Account
+✅ Step 3 — Add Your Service Account
+Place your service_account.json file inside the automation-script folder.
 
-Place your `service_account.json` in the **automation-script** folder.
+✅ Step 4 — Open Dashboard
+Open powerbi-file/Financial_Deshboard.pbix in Power BI Desktop.
 
-### ✅ Step 4 — Open Dashboard
-
-Open `Financial_Deshboard.pbix` in Power BI Desktop.
-
----
 
 # ✨ **Future Enhancements**
 
